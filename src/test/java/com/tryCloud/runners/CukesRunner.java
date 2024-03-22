@@ -15,7 +15,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "com/tryCloud/step_definitions",
         dryRun = false,
-        tags = "@B32G3-138",
+        tags = "@calendar",
         publish = true //generating a report with public link
 )
 public class CukesRunner {}
