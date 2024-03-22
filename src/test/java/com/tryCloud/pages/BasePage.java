@@ -33,6 +33,7 @@ public abstract class BasePage {
     }
 
 
+
     @FindBy(xpath = "//div[@class='header-right']/div")
     public List<WebElement> headerRightElements;
 
